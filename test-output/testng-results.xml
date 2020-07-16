@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[16-Jul-2020 08:25:58 PM : <a target=_blank href=screenshots/screenshot_1.png>login  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:25:58 PM : sample log]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:02 PM : <a target=_blank href=screenshots/screenshot_2.png>Details input for user Register  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:06 PM : <a target=_blank href=screenshots/screenshot_3.png>Succeessfully User Register done  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:09 PM : <a target=_blank href=screenshots/screenshot_4.png>Details inputted for New Account opening  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:11 PM : <a target=_blank href=screenshots/screenshot_5.png>New Account opened  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:15 PM : <a target=_blank href=screenshots/screenshot_6.png>Details inputted for Fund transfer from one account to another account  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:16 PM : <a target=_blank href=screenshots/screenshot_7.png>Fund transfer Completed  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:22 PM : <a target=_blank href=screenshots/screenshot_8.png>Navigated to Account details Screen  </a>]]>
+    </line>
+    <line>
+      <![CDATA[16-Jul-2020 08:26:33 PM : <a target=_blank href=screenshots/screenshot_9.png>Successfully logged out  </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48510" started-at="2020-07-16T14:55:46Z" finished-at="2020-07-16T14:56:34Z">
+    <groups>
+      <group name="web">
+        <method signature="ParasBankTest.Test2()[pri:0, instance:com.internetapp.tests.ParasBankTest@6a0094c9]" name="Test2" class="com.internetapp.tests.ParasBankTest"/>
+      </group> <!-- web -->
+    </groups>
+    <test name="Default test" duration-ms="48510" started-at="2020-07-16T14:55:46Z" finished-at="2020-07-16T14:56:34Z">
+      <class name="com.internetapp.tests.ParasBankTest">
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.internetapp.tests.ParasBankTest@6a0094c9]" name="Test2" duration-ms="47404" started-at="2020-07-16T20:25:46Z" finished-at="2020-07-16T20:26:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[16-Jul-2020 08:25:58 PM : <a target=_blank href=screenshots/screenshot_1.png>login  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:25:58 PM : sample log]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:02 PM : <a target=_blank href=screenshots/screenshot_2.png>Details input for user Register  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:06 PM : <a target=_blank href=screenshots/screenshot_3.png>Succeessfully User Register done  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:09 PM : <a target=_blank href=screenshots/screenshot_4.png>Details inputted for New Account opening  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:11 PM : <a target=_blank href=screenshots/screenshot_5.png>New Account opened  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:15 PM : <a target=_blank href=screenshots/screenshot_6.png>Details inputted for Fund transfer from one account to another account  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:16 PM : <a target=_blank href=screenshots/screenshot_7.png>Fund transfer Completed  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:22 PM : <a target=_blank href=screenshots/screenshot_8.png>Navigated to Account details Screen  </a>]]>
+            </line>
+            <line>
+              <![CDATA[16-Jul-2020 08:26:33 PM : <a target=_blank href=screenshots/screenshot_9.png>Successfully logged out  </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- com.internetapp.tests.ParasBankTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
